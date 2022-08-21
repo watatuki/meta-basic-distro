@@ -1,0 +1,12 @@
+[Match]
+Name=eth0
+
+[Network]
+#IPForward=ipv4
+
+[Address]
+Address=192.168.10.239
+
+[Route]
+Gateway=192.168.10.1
+
